@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.cs.toronto.edu/~kriz/cifar.html
+HostUrl=https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
